@@ -1,15 +1,8 @@
 
 
 
-
-def funcone():
-    pass
-
-def functwo():
-    pass
-
 def func3(car):
 
-    car = f"{car} new"
+    car = f"{car} new and old"
 
     return car
